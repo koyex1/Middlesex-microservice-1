@@ -1,4 +1,4 @@
-FROM node:13-alphine
+FROM node
 
 RUN mkdir -p /home/app
 
